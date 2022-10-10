@@ -42,3 +42,6 @@ val technicalLevel = score.technicalLevel()
 val businessScore = score.business()
 val businessLevel = score.businessLevel()
 ```
+
+### Java implementation
+[owasp-risk-rating-calculator](https://github.com/stevespringett/owasp-risk-rating-calculator)
